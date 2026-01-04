@@ -1,0 +1,40 @@
+Project Requirements
+Project name: Performance Analysis of Sorting Algorithms
+Environment target: Python 3.14 (latest recommended)
+
+System requirements
+OS: Windows 10/11 or macOS 10.15+
+CPU: x86_64 (modern multi-core recommended for measurement stability)
+RAM: minimum 4 GB (8 GB+ recommended)
+Disk: 500 MB free for code, datasets, and results
+Software requirements
+Python: 3.14 or above (use the latest version as recommended)
+GUI toolkit: Tkinter (standard with CPython; ensure tkinter package installed)
+Package manager: pip (or conda if preferred)
+
+Python packages/libraries:
+numpy
+matplotlib
+pandas
+memory-profiler
+psutil
+pytest
+seaborn
+Optional (recommended for reproducible environments):
+
+ipython
+jupyterlab
+numpy
+matplotlib
+pandas
+memory-profiler
+psutil
+pytest
+seaborn
+
+Recommended IDEs/editors (recommended; not required but helpful)
+VS Code - Visual Studio Code (recommended)
+Python, Jupyter, virtual env
+
+PyCharm (Optional)
+Powerful code navigation, refactoring, test runner, virtual env manager
